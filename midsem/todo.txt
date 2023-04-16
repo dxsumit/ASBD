@@ -1,0 +1,14 @@
+ASBD Midsem Lab TODO
+
+1. Convert Column Names into english.
+2. Drop the comments table... coz lot of NaN values 
+3. Find duplicates and drop if exist..
+4. Find number of matches in each year..
+5. Number of teams in each state.
+6. Home team goal and Visiting goals violen
+7. Each teams win and loose in home and visiting
+8. Arenas with most number of Home and Visitor winner Bar Graph.
+9. Correlation between home team score and visitor score scatter.
+10. Area between maximum and minimum scores in season
+11. Number of home team wins, ties, visitor team wins each year. 
+11. Most matches played by teams based on state..
