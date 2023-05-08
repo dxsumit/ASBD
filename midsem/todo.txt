@@ -12,3 +12,24 @@ ASBD Midsem Lab TODO
 10. Area between maximum and minimum scores in season
 11. Number of home team wins, ties, visitor team wins each year. 
 11. Most matches played by teams based on state..
+
+
+
+EndSem
+
+1. Find pattern in Arena, Home Team, Visitor team, Wins.
+2. Bayes on season round, homeTeam, VisitorTeam, Arena, homeTeam_state, VisitorTeam_state to find winner class.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
